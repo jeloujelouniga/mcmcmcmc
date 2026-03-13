@@ -1,0 +1,38 @@
+[17:54:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[17:54:39] [ServerMain/INFO]: No existing world data, creating new world
+[17:54:41] [ServerMain/INFO]: Loaded 1470 recipes
+[17:54:41] [ServerMain/INFO]: Loaded 1584 advancements
+[17:54:41] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[17:54:41] [Server thread/INFO]: Loading properties
+[17:54:41] [Server thread/INFO]: Default game type: SURVIVAL
+[17:54:41] [Server thread/INFO]: Generating keypair
+[17:54:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:54:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:54:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:54:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:54:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:54:41] [Server thread/INFO]: Preparing level "world"
+[17:54:42] [Server thread/INFO]: Selecting global world spawn...
+[17:54:57] [Server thread/INFO]: Loading 0 persistent chunks...
+[17:54:57] [Server thread/INFO]: Preparing spawn area: 100%
+[17:54:57] [Server thread/INFO]: Time elapsed: 14851 ms
+[17:54:57] [Server thread/INFO]: Done (15.641s)! For help, type "help"
+[17:55:31] [Server thread/INFO]: prodbyFin[/127.80.255.4:43073] logged in with entity id 9 at (10.5, 87.0, -9.5)
+[17:55:31] [Server thread/INFO]: prodbyFin joined the game
+[18:01:17] [Server thread/INFO]: prodbyFin lost connection: Disconnected
+[18:01:17] [Server thread/INFO]: prodbyFin left the game
+[18:01:40] [Server thread/INFO]: prodbyFin[/127.80.255.4:57039] logged in with entity id 1063 at (1.434666101493021, 92.0, -71.2314934017618)
+[18:01:40] [Server thread/INFO]: prodbyFin joined the game
+[18:11:16] [Server thread/INFO]: prodbyFin lost connection: Disconnected
+[18:11:16] [Server thread/INFO]: prodbyFin left the game
+[18:11:21] [Server thread/INFO]: prodbyFin[/127.80.255.4:41229] logged in with entity id 2460 at (23.108616545291408, 94.0, -76.5945342026026)
+[18:11:21] [Server thread/INFO]: prodbyFin joined the game
+[18:12:28] [Server thread/INFO]: prodbyFin was slain by Zombie
+[18:13:14] [Server thread/INFO]: prodbyFin lost connection: Disconnected
+[18:13:14] [Server thread/INFO]: prodbyFin left the game
+[18:14:14] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:15:11] [Server thread/INFO]: Non_F3n[/127.80.255.4:42093] logged in with entity id 3066 at (9.5, 80.0, -2.5)
+[18:15:11] [Server thread/INFO]: Non_F3n joined the game
+[18:15:28] [Server thread/INFO]: Non_F3n lost connection: Disconnected
+[18:15:28] [Server thread/INFO]: Non_F3n left the game
+[18:16:28] [Server thread/INFO]: Server empty for 60 seconds, pausing
